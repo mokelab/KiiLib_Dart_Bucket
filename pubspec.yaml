@@ -1,8 +1,8 @@
 name: kiilib_bucket
 description: Kii Library - bucket API
 author: fkm <fkm@mokelab.com>
-homepage: https://github.com/mokelab/KiiLib_Dart_Object
-repository: https://github.com/mokelab/KiiLib_Dart_Object
+homepage: https://github.com/mokelab/KiiLib_Dart_Bucket
+repository: https://github.com/mokelab/KiiLib_Dart_Bucket
 
 version: 0.0.1+1
 
